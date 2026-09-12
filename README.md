@@ -1,7 +1,7 @@
 # 🤖 AI-Powered Reddit Lead Finder & Intent Scorer
 
 [![n8n](https://img.shields.io/badge/Workflow-n8n-FF6D5A?style=for-the-badge&logo=n8n)](https://n8n.io)
-[![AI](https://img.shields.io/badge/AI-Gemini_Driven-blue?style=for-the-badge&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
+[![AI](https://img.shields.io/badge/AI-Gemini_-blue?style=for-the-badge&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
 [![Gumroad](https://img.shields.io/badge/Gumroad-→%20GET%20THE%20SYSTEM-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://structradigital.gumroad.com/l/reddit-lead-finder-n8n-automation?_gl=1*1l7i3fs*_ga*NDgxNDM0OTg2LjE3NzE4NDU3NTQ.*_ga_6LJN6D94N6*czE3ODkyNDY2NzYkbzI0NiRnMCR0MTc4OTI0NjY3NiRqNjAkbDAkaDA.)
 
 **Stop scrolling. Start closing.** 🚀
