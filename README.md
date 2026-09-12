@@ -57,7 +57,7 @@ When you get this automation, you receive everything needed to start finding lea
 ---
 
 ### ⬆️ Ready to start finding high-quality Reddit leads?
-[**DOWNLOAD THE FULL AUTOMATION SYSTEM HERE →**](https://www.etsy.com/listing/4396766590/reddit-lead-finder-automation-n8n)
+[**DOWNLOAD THE FULL AUTOMATION SYSTEM HERE →**](https://structradigital.gumroad.com/l/reddit-lead-finder-n8n-automation?_gl=1*1l7i3fs*_ga*NDgxNDM0OTg2LjE3NzE4NDU3NTQ.*_ga_6LJN6D94N6*czE3ODkyNDY2NzYkbzI0NiRnMCR0MTc4OTI0NjY3NiRqNjAkbDAkaDA.)
 
 ---
 
